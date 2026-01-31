@@ -5,7 +5,10 @@
 	"mixins": [
 		"BrewingRecipeMixin",
 		"PoxiumSwordDamageMixin",
-		"PoxiumArmorDeathMixin"
+		"PoxiumArmorDeathMixin",
+      "ItemRendererAccessor",
+      "ItemRendererMixin",
+      "ModelLoaderMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
