@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# M",
+        "SM#",
+        "BS "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "M": {
+            "item": "minecraft:mycelium"
+        },
+        "S": {
+            "item": "minecraft:spider_eye"
+        },
+        "B": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "result": {
+        "item": "poxium:poxium_sword",
+        "count": 1
+    }
+}

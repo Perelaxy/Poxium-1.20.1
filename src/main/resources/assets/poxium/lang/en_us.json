@@ -1,0 +1,20 @@
+{
+  "item.poxium.poxium_sword": "Poxium Sword",
+  "item.poxium.poxium_helmet": "Poxium Helmet",
+  "item.poxium.poxium_chestplate": "Poxium Chestplate",
+  "item.poxium.poxium_leggings": "Poxium Leggings",
+  "item.poxium.poxium_boots": "Poxium Boots",
+  "effect.poxium.poxium_blight": "Poxium Blight",
+  "item.minecraft.potion.effect.poxium_blight": "Potion of Poxium Blight",
+  "item.minecraft.splash_potion.effect.poxium_blight": "Splash Potion of Poxium Blight",
+  "item.minecraft.lingering_potion.effect.poxium_blight": "Lingering Potion of Poxium Blight",
+  "item.minecraft.tipped_arrow.effect.poxium_blight": "Arrow of Poxium Blight",
+  "item.minecraft.potion.effect.long_poxium_blight": "Potion of Poxium Blight",
+  "item.minecraft.splash_potion.effect.long_poxium_blight": "Splash Potion of Poxium Blight",
+  "item.minecraft.lingering_potion.effect.long_poxium_blight": "Lingering Potion of Poxium Blight",
+  "item.minecraft.tipped_arrow.effect.long_poxium_blight": "Arrow of Poxium Blight",
+  "item.minecraft.potion.effect.strong_poxium_blight": "Potion of Poxium Blight",
+  "item.minecraft.splash_potion.effect.strong_poxium_blight": "Splash Potion of Poxium Blight",
+  "item.minecraft.lingering_potion.effect.strong_poxium_blight": "Lingering Potion of Poxium Blight",
+  "item.minecraft.tipped_arrow.effect.strong_poxium_blight": "Arrow of Poxium Blight"
+}

@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "net.pozzums.poxium.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"BrewingRecipeMixin",
+		"PoxiumSwordDamageMixin",
+		"PoxiumArmorDeathMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
