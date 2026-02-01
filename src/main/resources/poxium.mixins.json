@@ -8,7 +8,8 @@
 		"PoxiumArmorDeathMixin",
       "ItemRendererAccessor",
       "ItemRendererMixin",
-      "ModelLoaderMixin"
+      "ModelLoaderMixin",
+      "ServerPlayerEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
